@@ -8,4 +8,4 @@ Recently for the project we've been working on, I built some instant chat featur
 
 Cheers
 
-<a href="https://user-images.githubusercontent.com/52526566/120740866-ea563480-c4a8-11eb-9c80-6864836c3814.mp4" target="_blank">Live demo: </a>
+https://user-images.githubusercontent.com/52526566/120740866-ea563480-c4a8-11eb-9c80-6864836c3814.mp4
